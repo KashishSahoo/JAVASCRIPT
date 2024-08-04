@@ -1,0 +1,10 @@
+let msg="   hare Krishna ram";
+console.log(msg);
+let n=msg.trim();
+console.log(n);
+let chant="radhakrishna";
+let nn=chant.toUpperCase();
+console.log(nn);
+let t="I Love RadhaKrishna";
+let s=t.indexOf("R");
+console.log(s);
